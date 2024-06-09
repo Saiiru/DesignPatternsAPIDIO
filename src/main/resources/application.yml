@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: starwars
+springdoc:
+  version: '1.0.0'
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui.html
